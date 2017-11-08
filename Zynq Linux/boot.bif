@@ -1,0 +1,8 @@
+image : {
+        [bootloader]amp_fsbl.elf
+        u-boot.elf
+        devicetree.dtb
+        arm_ramdisk.image.gz
+        uImage.bin
+	demo_program_baremetal.elf
+}	
